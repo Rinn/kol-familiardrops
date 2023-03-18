@@ -1,6 +1,8 @@
 # FamiliarDrops
 Automatically get profitable drops from familiars.
 
+No longer maintained.
+
 `git checkout Rinn/kol-familiardrops`
 
 ### zlib Settings
