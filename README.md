@@ -1,7 +1,7 @@
 # FamiliarDrops
 Automatically get profitable drops from familiars.
 
-`svn checkout https://github.com/Rinn/kolmafia-scripts/trunk/FamiliarDrops/`
+`git checkout Rinn/kol-familiardrops`
 
 ### zlib Settings
 * `FamiliarDrops_Enabled`: If this script is enabled. Ignored if you import the script and call familiar_swap().
