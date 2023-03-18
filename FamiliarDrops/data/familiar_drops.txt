@@ -1,0 +1,265 @@
+Adventurous Spelunker	itemdrop	Tales of Spelunking
+Adventurous Spelunker	pref	_spelunkingTalesDrops
+Adventurous Spelunker	forceequipment	none
+Adventurous Spelunker	absolutedropmin	0	2
+Adventurous Spelunker	absolutedropmax	0	12
+Adventurous Spelunker	percentincrease	0.0
+Angry Jung Man	itemdrop	psychoanalytic jar
+Angry Jung Man	pref	_jungDrops
+Angry Jung Man	forceequipment	none
+Angry Jung Man	absolutedropmax	0	30
+Angry Jung Man	percentincrease	0.0
+Artistic Goth Kid	itemdrop	crayon shavings
+Artistic Goth Kid	pref	_hipsterAdv
+Artistic Goth Kid	forceequipment	little wooden mannequin
+Artistic Goth Kid	percentdroprate	0	0.5
+Artistic Goth Kid	percentdroprate	1	0.4
+Artistic Goth Kid	percentdroprate	2	0.3
+Artistic Goth Kid	percentdroprate	3	0.2
+Artistic Goth Kid	percentdroprate	4	0.1
+Artistic Goth Kid	percentdroprate	5	0.1
+Artistic Goth Kid	percentdroprate	6	0.1
+Artistic Goth Kid	percentincrease	0.0
+Astral Badger	itemdrop	astral mushroom
+Astral Badger	pref	_astralDrops
+Astral Badger	forceequipment	none
+Astral Badger	percentdroprate	0	0.35
+Astral Badger	percentdroprate	1	0.25
+Astral Badger	percentdroprate	2	0.2
+Astral Badger	percentdroprate	3	0.15
+Astral Badger	percentdroprate	4	0.1
+Astral Badger	percentincrease	0.05
+Baby Sandworm	itemdrop	agua de vida
+Baby Sandworm	pref	_aguaDrops
+Baby Sandworm	forceequipment	none
+Baby Sandworm	percentdroprate	0	0.2
+Baby Sandworm	percentdroprate	1	0.15
+Baby Sandworm	percentdroprate	2	0.1
+Baby Sandworm	percentdroprate	3	0.05
+Baby Sandworm	percentdroprate	4	0.05
+Baby Sandworm	percentincrease	0.05
+Blavious Kloop	itemdrop	devilish folio
+Blavious Kloop	pref	_kloopDrops
+Blavious Kloop	forceequipment	none
+Blavious Kloop	percentdroprate	0	0.25
+Blavious Kloop	percentdroprate	1	0.2
+Blavious Kloop	percentdroprate	2	0.15
+Blavious Kloop	percentdroprate	3	0.1
+Blavious Kloop	percentdroprate	4	0.05
+Blavious Kloop	percentincrease	0.05
+Bloovian Groose	itemdrop	groose grease
+Bloovian Groose	pref	_grooseDrops
+Bloovian Groose	forceequipment	none
+Bloovian Groose	percentdroprate	0	0.25
+Bloovian Groose	percentdroprate	1	0.2
+Bloovian Groose	percentdroprate	2	0.15
+Bloovian Groose	percentdroprate	3	0.1
+Bloovian Groose	percentdroprate	4	0.05
+Bloovian Groose	percentincrease	0.05
+Fist Turkey	itemdrop	Ambitious Turkey
+Fist Turkey	pref	_turkeyBooze
+Fist Turkey	forceequipment	none
+Fist Turkey	percentdroprate	0	0.25
+Fist Turkey	percentdroprate	1	0.2
+Fist Turkey	percentdroprate	2	0.15
+Fist Turkey	percentdroprate	3	0.1
+Fist Turkey	percentdroprate	4	0.05
+Fist Turkey	percentincrease	0.05
+Galloping Grill	itemdrop	hot ashes
+Galloping Grill	pref	_hotAshesDrops
+Galloping Grill	forceequipment	none
+Galloping Grill	percentdroprate	0	0.25
+Galloping Grill	percentdroprate	1	0.2
+Galloping Grill	percentdroprate	2	0.15
+Galloping Grill	percentdroprate	3	0.1
+Galloping Grill	percentdroprate	4	0.05
+Galloping Grill	percentincrease	0.05
+Golden Monkey	itemdrop	powdered gold
+Golden Monkey	pref	_powderedGoldDrops
+Golden Monkey	forceequipment	none
+Golden Monkey	percentdroprate	0	0.25
+Golden Monkey	percentdroprate	1	0.2
+Golden Monkey	percentdroprate	2	0.15
+Golden Monkey	percentdroprate	3	0.1
+Golden Monkey	percentdroprate	4	0.05
+Golden Monkey	percentincrease	0.05
+Green Pixie	itemdrop	tiny bottle of absinthe
+Green Pixie	pref	_absintheDrops
+Green Pixie	forceequipment	none
+Green Pixie	percentdroprate	0	0.2
+Green Pixie	percentdroprate	1	0.15
+Green Pixie	percentdroprate	2	0.1
+Green Pixie	percentdroprate	3	0.05
+Green Pixie	percentdroprate	4	0.05
+Green Pixie	percentincrease	0.05
+Grim Brother	itemdrop	grim fairy tale
+Grim Brother	pref	_grimFairyTaleDrops
+Grim Brother	forceequipment	none
+Grim Brother	percentdroprate	0	0.25
+Grim Brother	percentdroprate	1	0.2
+Grim Brother	percentdroprate	2	0.15
+Grim Brother	percentdroprate	3	0.1
+Grim Brother	percentdroprate	4	0.05
+Grim Brother	percentincrease	0.05
+Grimstone Golem	itemdrop	grimstone mask
+Grimstone Golem	pref	_grimstoneMaskDrops
+Grimstone Golem	forceequipment	none
+Grimstone Golem	absolutedropmin	0	40
+Grimstone Golem	absolutedropmax	0	50
+Grimstone Golem	percentincrease	0.0
+Happy Medium	itemdrop	Shot of the Living Dead
+Happy Medium	pref	_mediumSiphons
+Happy Medium	forceequipment	none
+Happy Medium	absolutedropmax	0	9
+Happy Medium	absolutedropmax	1	12
+Happy Medium	absolutedropmax	2	15
+Happy Medium	absolutedropmax	3	18
+Happy Medium	absolutedropmax	4	21
+Happy Medium	absolutedropmax	5	24
+Happy Medium	absolutedropmax	6	27
+Happy Medium	absolutedropmax	7	30
+Happy Medium	absolutedropmax	8	33
+Happy Medium	absolutedropmax	9	36
+Happy Medium	absolutedropmax	10	39
+Happy Medium	absolutedropmax	11	42
+Happy Medium	absolutedropmax	12	45
+Happy Medium	absolutedropmax	13	48
+Happy Medium	absolutedropmax	14	51
+Happy Medium	absolutedropmax	15	54
+Happy Medium	percentincrease	0.0
+Knob Goblin Organ Grinder	itemdrop	liver and let pie
+Knob Goblin Organ Grinder	pref	_pieDrops
+Knob Goblin Organ Grinder	forceequipment	microwave stogie
+Knob Goblin Organ Grinder	absolutedropmax	0	5
+Knob Goblin Organ Grinder	absolutedropmax	1	5
+Knob Goblin Organ Grinder	absolutedropmax	2	11
+Knob Goblin Organ Grinder	absolutedropmax	3	18
+Knob Goblin Organ Grinder	absolutedropmax	4	26
+Knob Goblin Organ Grinder	absolutedropmax	5	35
+Knob Goblin Organ Grinder	absolutedropmax	6	45
+Knob Goblin Organ Grinder	absolutedropmax	7	45
+Knob Goblin Organ Grinder	absolutedropmax	8	45
+Knob Goblin Organ Grinder	absolutedropmax	9	45
+Knob Goblin Organ Grinder	absolutedropmax	10	45
+Knob Goblin Organ Grinder	absolutedropmax	11	45
+Knob Goblin Organ Grinder	absolutedropmax	12	45
+Knob Goblin Organ Grinder	absolutedropmax	13	45
+Knob Goblin Organ Grinder	absolutedropmax	14	45
+Knob Goblin Organ Grinder	absolutedropmax	15	45
+Knob Goblin Organ Grinder	percentincrease	0.0
+Li'l Xenomorph	itemdrop	transporter transponder
+Li'l Xenomorph	pref	_transponderDrops
+Li'l Xenomorph	forceequipment	none
+Li'l Xenomorph	percentdroprate	0	0.25
+Li'l Xenomorph	percentdroprate	1	0.2
+Li'l Xenomorph	percentdroprate	2	0.15
+Li'l Xenomorph	percentdroprate	3	0.1
+Li'l Xenomorph	percentdroprate	4	0.05
+Li'l Xenomorph	percentincrease	0.05
+Llama Lama	itemdrop	llama lama gong
+Llama Lama	pref	_gongDrops
+Llama Lama	forceequipment	zen motorcycle
+Llama Lama	percentdroprate	0	0.25
+Llama Lama	percentdroprate	1	0.2
+Llama Lama	percentdroprate	2	0.15
+Llama Lama	percentdroprate	3	0.1
+Llama Lama	percentdroprate	4	0.1
+Llama Lama	percentincrease	0.05
+Mini-Hipster	itemdrop	ironic knit cap
+Mini-Hipster	pref	_hipsterAdv
+Mini-Hipster	forceequipment	none
+Mini-Hipster	percentdroprate	0	0.5
+Mini-Hipster	percentdroprate	1	0.4
+Mini-Hipster	percentdroprate	2	0.3
+Mini-Hipster	percentdroprate	3	0.2
+Mini-Hipster	percentdroprate	4	0.1
+Mini-Hipster	percentdroprate	5	0.1
+Mini-Hipster	percentdroprate	6	0.1
+Mini-Hipster	percentincrease	0.0
+Pair of Stomping Boots	itemdrop	gooey paste
+Pair of Stomping Boots	pref	_bootStomps
+Pair of Stomping Boots	forceequipment	none
+Pair of Stomping Boots	absolutedropmax	0	1
+Pair of Stomping Boots	absolutedropmax	1	2
+Pair of Stomping Boots	absolutedropmax	2	3
+Pair of Stomping Boots	absolutedropmax	3	4
+Pair of Stomping Boots	absolutedropmax	4	5
+Pair of Stomping Boots	absolutedropmax	5	6
+Pair of Stomping Boots	absolutedropmax	6	7
+Pair of Stomping Boots	percentincrease	0.0
+Rogue Program	itemdrop	Game Grid token
+Rogue Program	pref	_tokenDrops
+Rogue Program	forceequipment	none
+Rogue Program	percentdroprate	0	0.25
+Rogue Program	percentdroprate	1	0.2
+Rogue Program	percentdroprate	2	0.15
+Rogue Program	percentdroprate	3	0.1
+Rogue Program	percentdroprate	4	0.05
+Rogue Program	percentincrease	0.05
+Unconscious Collective	itemdrop	Unconscious Collective Dream Jar
+Unconscious Collective	pref	_dreamJarDrops
+Unconscious Collective	forceequipment	none
+Unconscious Collective	percentdroprate	0	0.25
+Unconscious Collective	percentdroprate	1	0.2
+Unconscious Collective	percentdroprate	2	0.15
+Unconscious Collective	percentdroprate	3	0.1
+Unconscious Collective	percentdroprate	4	0.05
+Unconscious Collective	percentincrease	0.05
+
+# Other
+Intergnat	itemdrop	BACON
+Intergnat	forceequipment	none
+Intergnat	absolutedropmax	0	1
+Intergnat	percentincrease	0.0
+Intergnat	repeating	true
+XO Skeleton	itemdrop	X
+XO Skeleton	forceequipment	none
+XO Skeleton	absolutedropmin	0	4
+XO Skeleton	absolutedropmax	0	5
+XO Skeleton	percentincrease	0.0
+XO Skeleton	repeating	true
+Rock Lobster	itemdrop	floaty sand
+Rock Lobster	forceequipment	none
+Rock Lobster	percentdroprate	0	0.02
+Rock Lobster	percentincrease	0.0
+Rock Lobster	repeating	true
+Ancient Yuletide Troll	itemdrop	disintegrating sheet music
+Ancient Yuletide Troll	forceequipment	giant book of ancient carols
+Ancient Yuletide Troll	percentdroprate	0	0.033
+Ancient Yuletide Troll	percentincrease	0.0
+Ancient Yuletide Troll	repeating	true
+BRICKO Chick	itemdrop	BRICKO brick 
+BRICKO Chick	forceequipment	none
+BRICKO Chick	percentdroprate	0	0.5
+BRICKO Chick	percentincrease	0.0
+BRICKO Chick	repeating	true
+Pottery Barn Owl	itemdrop	volcanic ash
+Pottery Barn Owl	forceequipment	none
+Pottery Barn Owl	percentdroprate	0	0.05
+Pottery Barn Owl	percentincrease	0.0
+Pottery Barn Owl	repeating	true
+Obtuse Angel	itemdrop	time's arrow
+Obtuse Angel	forceequipment	none
+Obtuse Angel	percentdroprate	0	0.02
+Obtuse Angel	percentincrease	0.0
+Obtuse Angel	repeating	true
+Mechanical Songbird	itemdrop	intricate clockwork egg
+Mechanical Songbird	forceequipment	none
+Mechanical Songbird	absolutedropmin	0	150
+Mechanical Songbird	absolutedropmax	0	150
+Mechanical Songbird	percentincrease	0.0
+Mechanical Songbird	repeating	true
+Puck Man	itemdrop	power pill
+Puck Man	pref	_powerPillDrops
+Puck Man	forceequipment	none
+Puck Man	absolutedropmin	0	10
+Puck Man	absolutedropmax	0	20
+Puck Man	percentincrease	0.0
+Puck Man	repeating	true
+Ms. Puck Man	itemdrop	power pill
+Ms. Puck Man	pref	_powerPillDrops
+Ms. Puck Man	forceequipment	none
+Ms. Puck Man	absolutedropmin	0	10
+Ms. Puck Man	absolutedropmax	0	20
+Ms. Puck Man	percentincrease	0.0
+Ms. Puck Man	repeating	true
